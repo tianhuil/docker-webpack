@@ -6,7 +6,7 @@ export default class Greeting extends React.Component {
   }
 
   render() {
-    return (  
+    return (
       <div className='greeting'>
         Hello, {this.props.name}!
       </div>
