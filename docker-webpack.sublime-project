@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+      "file_exclude_patterns": ["node_modules/", "website/"]
+		}
+	],
+  "build_systems":
+  [
+      {
+          "name": "List",
+          "shell_cmd": "ls -l"
+      }
+  ]
+}
